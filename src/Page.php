@@ -7,7 +7,7 @@ namespace Qck\Html;
  * 
  * @author muellerm
  */
-class Page implements Interfaces\Page, Interfaces\PageGuard
+class Page implements Interfaces\Page, Interfaces\PageBroker
 {
 
   function getPage( $BodyTemplateOrText )

@@ -6,7 +6,7 @@ namespace Qck\Html;
  * 
  * @author muellerm
  */
-class LoginForm implements Interfaces\LoginFormGuard
+class LoginForm implements Interfaces\LoginFormBroker
 {
 
   public function renderHtml()
