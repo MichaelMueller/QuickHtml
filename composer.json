@@ -16,10 +16,7 @@
   "autoload": {
     "psr-4": {
       "Qck\\Html\\": "src"
-    },
-    "files": [
-      "src/quickhtml_autoload.php"
-    ]
+    }
   },
   "minimum-stability": "dev",
   "prefer-stable": true
